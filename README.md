@@ -4,20 +4,21 @@
 - PYTHON & Machine Learning
 - Alogorithmic & Asthetic Creativity
 - Robotics & UI/UX
-
+  
 - 🌱 I’m currently learning
 -  Android App Development
 -  Hand Gesture-Controlled Robotics
--  
+   
 - 💞️ I’m looking to collaborate on
 - Creative design projects
 - AI-driven design projects
 - Open-source projects in ML & UI/UX  
 
 - 📫 How to reach me
-- [LinkedIn]
+- [LinkedIn]: Supriya Singh
   
 - 😄 Pronouns: She/Her
+
 - ⚡ Fun fact:I love writing poems along with coding! 🎭💻 
 
 <!---
